@@ -9,7 +9,7 @@ The `Smart Alcohol Detection and Engine Locking System` is an innovative project
 - [Alok Sharma](https://linkedin.com/in/alok-sharma2002-)
 - [Sanskriti Yadav](https://linkedin.com/in/)
 
-We, Alok Sharma and Sanskriti Yadav, collaborated on this project as a Minor Project during our college studies.
+We, `Alok Sharma` and `Sanskriti Yadav`, collaborated on this project as a Minor Project during our college studies.
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ We, Alok Sharma and Sanskriti Yadav, collaborated on this project as a Minor Pro
 - [How It Works](#how-it-works)
 - [Project Images](#project-images)
 - [Advantages](#advantages)
-- [Results and Discussion](#results-and-discussion)
+- [Results](#results)
 - [Project Resources](#project-resources)
   - [Project Video](#project-video)
   - [Report File](#report-file)
@@ -119,19 +119,19 @@ The "Smart Alcohol Detection and Engine Locking System" offers the following adv
 - Rechargeable battery for portability and convenience.
 
 
-## Results and Discussion
+## Results
 
-We, Alok Sharma and Sanskriti Yadav, are excited to announce the successful development of the "Smart Alcohol Detection and Engine Locking System." This repository includes all the details, documentation, and source code required to replicate the system. By seamlessly integrating technology and safety measures, this project represents a significant step forward in addressing the critical issue of alcohol consumption and vehicular operation. We believe that our project encourages responsible driving practices and contributes to improving overall road safety standards.
+We, `Alok Sharma` and `Sanskriti Yadav`, are excited to announce the successful development of the `Smart Alcohol Detection and Engine Locking System`. This repository includes all the details, documentation, and source code required to replicate the system. By seamlessly integrating technology and safety measures, this project represents a significant step forward in addressing the critical issue of alcohol consumption and vehicular operation. We believe that our project encourages responsible driving practices and contributes to improving overall road safety standards.
 
 ## Project Resources
 
 ### Project Video
 
-Watch the project in action through our [Project Video](https://drive.google.com/file/d/1tx5jpaTaQ4W__BgLvbHd8hNuxtNZIiqy/view?usp=sharing) to get a visual understanding of the system's functionality.
+Watch the project in action through our [Project Video](https://drive.google.com/file/d/1zANiqAPzrqs5evM-ASB2T4bQVfZGgP5V/view?usp=sharing) to get a visual understanding of the system's functionality.
 
 ### Report File
 
-Refer to our detailed [Report File](https://drive.google.com/file/d/1zANiqAPzrqs5evM-ASB2T4bQVfZGgP5V/view?usp=sharing) for comprehensive documentation, including project background, methodology, results, and discussions.
+Refer to our detailed [Report File](https://drive.google.com/file/d/1tx5jpaTaQ4W__BgLvbHd8hNuxtNZIiqy/view?usp=drive_link) for comprehensive documentation, including project background, methodology, results, and discussions.
 
 ### Source Code
 
