@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The `Smart Alcohol Detection and Engine Locking System` is an innovative project aimed at enhancing road safety by preventing `alcohol-impaired` driving. This repository contains the complete details, documentation, and source code for building and implementing the system.
+The `Smart Alcohol Detection and Engine Locking System` is an innovative project aimed at enhancing road safety by preventing alcohol-impaired driving. This repository contains the complete details, documentation, and source code for building and implementing the system.
 
 ## Project Team
 
@@ -127,11 +127,11 @@ We, Alok Sharma and Sanskriti Yadav, are excited to announce the successful deve
 
 ### Project Video
 
-Watch the project in action through our [Project Video](https://drive.google.com/file/d/1y-2GBZmoOKTEgctpraJHkuCLuDUZS-Go/view?usp=sharing) to get a visual understanding of the system's functionality.
+Watch the project in action through our [Project Video](https://drive.google.com/file/d/1tx5jpaTaQ4W__BgLvbHd8hNuxtNZIiqy/view?usp=sharing) to get a visual understanding of the system's functionality.
 
 ### Report File
 
-Refer to our detailed [Report File](https://drive.google.com/file/d/1LsCi9v50wTjgJwzwc7gqz5gHW4UfH5_W/view?usp=sharing) for comprehensive documentation, including project background, methodology, results, and discussions.
+Refer to our detailed [Report File](https://drive.google.com/file/d/1zANiqAPzrqs5evM-ASB2T4bQVfZGgP5V/view?usp=sharing) for comprehensive documentation, including project background, methodology, results, and discussions.
 
 ### Source Code
 
