@@ -45,7 +45,7 @@ To build the "Smart Alcohol Detection and Engine Locking System," you will need 
 9. `Buzzer`
 10. `SPST Switch`
 11. `Connecting Wires` or `Jumper Wires`
-12. `Arduino IDE` (to program Arduino Nano)
+12. `Arduino IDE` (to program `Arduino Nano`)
 
 Additionally, materials like Cardboard or a Box are used for the overall structure, offering adaptability in design.
 
@@ -60,7 +60,7 @@ Additionally, materials like Cardboard or a Box are used for the overall structu
 
 The operational mechanism of the "Smart Alcohol Detection and Engine Locking System" involves several key steps. Follow the detailed guide in the [How It Works](#how-it-works) section to understand the system's functionality, from power supply initiation to real-time alerts and temporary system pauses.
 
-The 'Smart Alcohol Detection and Engine Locking System' operates by integrating advanced rain sensor technology into the vehicle's wiper control system. This innovation allows real-time adjustments to the wiper's speed and frequency based on rain detection. Here's a concise overview of the system's functioning:
+The 'Smart Alcohol Detection and Engine Locking System' operates by integrating advanced alcohol detection technology into the vehicle's control system. This innovation allows real-time adjustments to the engine's operation based on alcohol detection, ensuring safer driving conditions. Here's a concise overview of the system's functioning:
 
 1. **Power Supply Initiation:**
    - System begins with turning on the power supply.
